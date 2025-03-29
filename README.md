@@ -19,5 +19,5 @@ The mod currently adds:
 
 # Contact
 - Created by Drake
--drake.contactMe@gmail.com
--GitHub: https://github.com/delliott18/TheCrib.git
+- drake.contactMe@gmail.com
+- GitHub: https://github.com/delliott18/TheCrib.git
