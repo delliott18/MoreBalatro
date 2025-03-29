@@ -1,0 +1,23 @@
+{
+	"id": "crib",
+	"name": "The Crib Mod",
+	"author": ["Drake"],
+	"description": "Adds a new Joker, The Crib, to Balatro.",
+	"prefix": "crib",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "FF230A",
+	"badge_text_colour": "FFFFFF",
+	"display_name": "The Crib Mod",
+	"version": "1.0.0",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+		"Lovely (>=0.6)"],
+	"conflicts": [],
+	"provides": [],
+	"modloader": "steamodded",
+	"game": "balatro",
+	"api_version": 1,
+	"contact": "https://github.com/delliott18/TheCrib.git",
+	"dev": true
+}
