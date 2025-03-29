@@ -1,5 +1,5 @@
 
-Crib is a content mod that adds a Custom Joker to Balatro
+The Crib is a content mod that adds a Custom Joker to Balatro
 
 # Content
 
@@ -20,3 +20,4 @@ The mod currently adds:
 # Contact
 - Created by Drake
 -drake.contactMe@gmail.com
+-GitHub: https://github.com/delliott18/TheCrib.git
