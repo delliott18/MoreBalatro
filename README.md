@@ -5,15 +5,15 @@ The More Balatro Mod is a content mod that adds Custom Jokers to Balatro
 
 The mod currently adds:
 - 9 Jokers
-    The Stranger
-    The Two Man
-    The Crib
-    The Sequence
-    The Monarchy
-    The Squad
-    The Frat
-    The Gang
-    Yotie
+    - The Stranger
+    - The Two Man
+    - The Crib
+    - The Sequence
+    - The Monarchy
+    - The Squad
+    - The Frat
+    - The Gang
+    - Yotie
 
 # Requirements
 - [Steamodded](https://github.com/Steamopollys/Steamodded)
